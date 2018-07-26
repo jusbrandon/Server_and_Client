@@ -1,0 +1,6 @@
+For client when entering College Major, After the first input it will display the College Major along with its Avg. career pay and Mid career pay
+On input 2nd and beyond put a "-" or any Char or any single digit number before typing in the College major as it will delete the first string after input 2 and beyond
+Example) on input 2 put "-Public Accounting" insted of "Public Accounting" as the first will return the correct response and 2nd will return "Major is not in table"
+
+
+
